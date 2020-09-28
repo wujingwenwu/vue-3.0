@@ -1,0 +1,1 @@
+import Clipboard from 'clipboard';
